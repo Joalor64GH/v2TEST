@@ -31,7 +31,7 @@ var app = new function() {
     }, {
         name: "8_sheyker",
         color: "828282",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "effet4_tululou",
         color: "828282",
